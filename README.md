@@ -1,5 +1,5 @@
 # Prolog_ModifiedMastermind
-A simple game of mastermind written in Prolog. <br>
+A simple modified version of Mastermind written in Prolog. <br>
 You need to have SWI-PROLOG for playing this game. You can find the software [here](https://www.swi-prolog.org/download/stable). For uploading the file "modified_mastermind.pl" on SWI-PROLOG, digit the path where you have saved the file. For example:<br>
 ```bash
 consult("/Users/.../modified_mastermind.pl").
