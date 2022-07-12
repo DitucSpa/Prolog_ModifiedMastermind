@@ -1,5 +1,3 @@
-% consult("/Users/gianlucadituccio/Documents/LAAI1/modified_mastermind.pl").
-
 easy_game(sell).
 easy_game(shot).
 easy_game(gear).
